@@ -20,18 +20,8 @@ This must be called from the working directory you want to analyze.
 # [Wiki Homepage](../../wikis/Home)
 
 # Author(s), Contributors
-* Contributor 1
-* Contributor 2
+* Jonathan Jay
 
 
 # License
 All software in this repository is licensed under the license found in [..\Build\License\](../master/Build/License/). 
-
-
----
-
-This project was created 2023-10-24 12:44:06.304161 by copying https://git.dmcinfo.com/DMC/labview/dmc-templates/gitlab-template.
-
----
-
-This project was created 2025-09-11 13:58:51.223686 by copying https://git.dmcinfo.com/DMC/labview/dmc-templates/DMC-Lib-Project-Template.
